@@ -1,0 +1,37 @@
+
+ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(³Ô‹–øÿÿÿÿ
+xjavascript:S2392"WConsider moving declaration of 'n' as it is referenced outside current binding context.(³Ô‹–øÿÿÿÿ
+xjavascript:S2392"WConsider moving declaration of 'f' as it is referenced outside current binding context.(³Ô‹–øÿÿÿÿ
+xjavascript:S2392"WConsider moving declaration of 'i' as it is referenced outside current binding context.(³Ô‹–øÿÿÿÿ
+xjavascript:S2392"WConsider moving declaration of 's' as it is referenced outside current binding context.(³Ô‹–øÿÿÿÿ
+Ajavascript:S878"!Unexpected use of comma operator.(³Ô‹–øÿÿÿÿ
+kjavascript:S6653"JUse 'Object.hasOwn()' instead of 'Object.prototype.hasOwnProperty.call()'.(³Ô‹–øÿÿÿÿ
+’javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(³Ô‹–øÿÿÿÿ
+kjavascript:S6653"JUse 'Object.hasOwn()' instead of 'Object.prototype.hasOwnProperty.call()'.(³Ô‹–øÿÿÿÿ
+’javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(³Ô‹–øÿÿÿÿ
+|javascript:S6582"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(³Ô‹–øÿÿÿÿ
+’javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(³Ô‹–øÿÿÿÿ
+Ojavascript:S6666".Use the spread operator instead of '.apply()'.(³Ô‹–øÿÿÿÿ
+Ajavascript:S878"!Unexpected use of comma operator.(³Ô‹–øÿÿÿÿ
+xjavascript:S2392"WConsider moving declaration of 'e' as it is referenced outside current binding context.(³Ô‹–øÿÿÿÿ
+xjavascript:S2392"WConsider moving declaration of 't' as it is referenced outside current binding context.(³Ô‹–øÿÿÿÿ
+xjavascript:S2392"WConsider moving declaration of 'n' as it is referenced outside current binding context.(³Ô‹–øÿÿÿÿ
+fjavascript:S905"FExpected an assignment or function call and instead saw an expression.(³Ô‹–øÿÿÿÿ
+?javascript:S2310"Remove this assignment of "r".(³Ô‹–øÿÿÿÿ
+Vjavascript:S1121"5Extract the assignment of "l.s" from this expression.(³Ô‹–øÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(³Ô‹–øÿÿÿÿ
+Ajavascript:S878"!Unexpected use of comma operator.(³Ô‹–øÿÿÿÿ
+Ajavascript:S878"!Unexpected use of comma operator.(³Ô‹–øÿÿÿÿ
+fjavascript:S905"FExpected an assignment or function call and instead saw an expression.(³Ô‹–øÿÿÿÿ
+Ajavascript:S878"!Unexpected use of comma operator.(³Ô‹–øÿÿÿÿ
+Ajavascript:S878"!Unexpected use of comma operator.(³Ô‹–øÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(³Ô‹–øÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(³Ô‹–øÿÿÿÿ
+Ajavascript:S878"!Unexpected use of comma operator.(³Ô‹–øÿÿÿÿ
+œjavascript:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(³Ô‹–øÿÿÿÿ
+|javascript:S6582"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(³Ô‹–øÿÿÿÿ
+Ajavascript:S878"!Unexpected use of comma operator.(³Ô‹–øÿÿÿÿ
+kjavascript:S6653"JUse 'Object.hasOwn()' instead of 'Object.prototype.hasOwnProperty.call()'.(³Ô‹–øÿÿÿÿ
+Ajavascript:S878"!Unexpected use of comma operator.(³Ô‹–øÿÿÿÿ
+mjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(³Ô‹–øÿÿÿÿ
+’javascript:S2681"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(³Ô‹–øÿÿÿÿ
